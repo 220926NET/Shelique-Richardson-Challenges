@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\TempREVCode\\Shelique-Richardson-Challenges\\SweetSaltyChallenge\\Shelique-Richardson-Challenges.csproj": {}
+  },
+  "projects": {
+    "C:\\TempREVCode\\Shelique-Richardson-Challenges\\SweetSaltyChallenge\\Shelique-Richardson-Challenges.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TempREVCode\\Shelique-Richardson-Challenges\\SweetSaltyChallenge\\Shelique-Richardson-Challenges.csproj",
+        "projectName": "Shelique-Richardson-Challenges",
+        "projectPath": "C:\\TempREVCode\\Shelique-Richardson-Challenges\\SweetSaltyChallenge\\Shelique-Richardson-Challenges.csproj",
+        "packagesPath": "C:\\Users\\shesh\\.nuget\\packages\\",
+        "outputPath": "C:\\TempREVCode\\Shelique-Richardson-Challenges\\SweetSaltyChallenge\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shesh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

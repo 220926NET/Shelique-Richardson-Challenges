@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Shelique-Richardson-Challenges/1.0.0": {
+        "runtime": {
+          "Shelique-Richardson-Challenges.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shelique-Richardson-Challenges/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

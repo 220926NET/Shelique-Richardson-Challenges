@@ -1,0 +1,15 @@
+C:\TempREVCode\Shelique-Richardson-Challenges\SweetSaltyChallenge\bin\Debug\net6.0\Shelique-Richardson-Challenges.exe
+C:\TempREVCode\Shelique-Richardson-Challenges\SweetSaltyChallenge\bin\Debug\net6.0\Shelique-Richardson-Challenges.deps.json
+C:\TempREVCode\Shelique-Richardson-Challenges\SweetSaltyChallenge\bin\Debug\net6.0\Shelique-Richardson-Challenges.runtimeconfig.json
+C:\TempREVCode\Shelique-Richardson-Challenges\SweetSaltyChallenge\bin\Debug\net6.0\Shelique-Richardson-Challenges.dll
+C:\TempREVCode\Shelique-Richardson-Challenges\SweetSaltyChallenge\bin\Debug\net6.0\Shelique-Richardson-Challenges.pdb
+C:\TempREVCode\Shelique-Richardson-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\Shelique-Richardson-Challenges.csproj.AssemblyReference.cache
+C:\TempREVCode\Shelique-Richardson-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\Shelique-Richardson-Challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\TempREVCode\Shelique-Richardson-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\Shelique-Richardson-Challenges.AssemblyInfoInputs.cache
+C:\TempREVCode\Shelique-Richardson-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\Shelique-Richardson-Challenges.AssemblyInfo.cs
+C:\TempREVCode\Shelique-Richardson-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\Shelique-Richardson-Challenges.csproj.CoreCompileInputs.cache
+C:\TempREVCode\Shelique-Richardson-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\Shelique-Richardson-Challenges.dll
+C:\TempREVCode\Shelique-Richardson-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\refint\Shelique-Richardson-Challenges.dll
+C:\TempREVCode\Shelique-Richardson-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\Shelique-Richardson-Challenges.pdb
+C:\TempREVCode\Shelique-Richardson-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\Shelique-Richardson-Challenges.genruntimeconfig.cache
+C:\TempREVCode\Shelique-Richardson-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\ref\Shelique-Richardson-Challenges.dll
